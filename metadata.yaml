@@ -1,0 +1,29 @@
+_repo: The-Calendar-and-Other-Verses_42306
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42306-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dix, Irving Sidney
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '41607'
+    url: http://www.gutenberg.org/2009/agents/41607
+description: Title; Contents; To Robert Meaker; Foreword; The Calendar; Niagara; Fairies
+  of the Frost; The Rivermen; The School of Life; A Visit from the Cricket; In Praise
+  of Inez; The Crime of Christmastime; The Miner; Love of Country; The Sinking of
+  the Titanic; War and Peace; Peace and War; To Andrew Carnegie
+gutenberg_issued: '2013-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: The Calendar, and Other Verses
+url: http://www.gutenberg.org/ebooks/42306
